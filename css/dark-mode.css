@@ -1,0 +1,33 @@
+/* dark-mode.css */
+body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+header.dark-mode {
+    background-color: #1f1f1f;
+}
+
+nav ul li a.dark-mode {
+    color: #e0e0e0;
+}
+
+form.dark-mode {
+    background-color: #1f1f1f;
+    color: #e0e0e0;
+}
+
+form input.dark-mode,
+form textarea.dark-mode {
+    background-color: #333;
+    color: #e0e0e0;
+    border: 1px solid #555;
+}
+
+form button.dark-mode {
+    background-color: #555;
+}
+
+form button.dark-mode:hover {
+    background-color: #777;
+}
